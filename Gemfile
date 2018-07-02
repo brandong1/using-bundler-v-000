@@ -6,7 +6,7 @@ gem "octokit", "~>2.0" #Twiddle-wakka = "~>"
 gem "awesome_print", :git => "https://github.com/awesome-print/awesome_print"
 
 gem "pry", :group => "development"
-gem "rspec", :test
+
 
 group :test do
   gem "rspec"
